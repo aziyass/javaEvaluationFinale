@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/digital-banking-spring-backend/ebanking-backend.iml" filepath="$PROJECT_DIR$/digital-banking-spring-backend/ebanking-backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaClones.iml" filepath="$PROJECT_DIR$/.idea/javaClones.iml" />
     </modules>
   </component>
